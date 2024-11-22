@@ -1,0 +1,3 @@
+[submodule "DeploymentProject/pokemon-ui"]
+	path = DeploymentProject/pokemon-ui
+	url = https://github.com/Erob711/pokemon-ui
