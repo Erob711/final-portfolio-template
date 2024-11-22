@@ -1,4 +1,4 @@
-## Project #3
+## Inventory App: Refacting a Node.JS Backend into Springboot
 Give a high-level overview of the project purpose
 - Questions to consider:
     - What are the users?
