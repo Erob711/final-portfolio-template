@@ -1,32 +1,28 @@
 ## Pokemon UI: Deployment and CI/CD Pipeline Procedures
-Give a high-level overview of the project purpose
-- Questions to consider:
-    - What are the users?
-    - What job does it form for them?
-    - What inspired you to make it?
-    - What features are the most important?
-- STAR Interview Questions:
-    - (Situation) Describe the application and why you created this program
-    - (Task) Describe the overall structure of your application and the design process prior to building the program
-    - (Action) Explain the code you wrote to achieve your desired result
-    - (Result) Showcase your final application with its functionality
-- Include relevant screenshots
-## Technologies
-- List all technologies and versions here
-- Include dependencies and versions
-- Note any deployment tools as well
+link: https://github.com/Erob711/pokemon-ui  
+
+Here, I took another old bootcamp project (Pokemon UI), which was built in React, and I deployed it to Netlify with an auto-deploy linked to main branch. I also implemented some automated checks in the CI pipeline.
+
+<div align="left">
+	<code><img width="50" src="https://user-images.githubusercontent.com/25181517/192108374-8da61ba1-99ec-41d7-80b8-fb2f7c0a4948.png" alt="JavaScript" title="JavaScript"/></code>
+	<code><img width="50" src="https://user-images.githubusercontent.com/25181517/183868728-b2e11072-00a5-47e2-8a4e-4ebbb2b8c554.png" alt="React" title="React"/></code>
+	<code><img width="50" src="https://user-images.githubusercontent.com/25181517/117207330-263ba280-adf4-11eb-9b97-0ac5b40bc3be.png" alt="Node.js" title="Node.js"/></code>
+</div>
+
+## Making it Work
+
+### Situation
+	Deploy an old app into production.
+### Task
+	Create a method for building and continuous development. Along with continuous integration quality checks.
+### Action
+	Work GitHub Actions and containerization into my project (with Docker) in order to achieve these goals.
+### Result
+	A production-ready UI!
 
 ## Competencies
-### JF XX.XX
-- List the full text of the job function first
-- Describe a situation where you demonstrated  this job function.
-- Summarize the actions you took to accomplish the goal. 
-- Emphasize the results of this action for your team or your learning. 
-- Connect the competentcy to this project
+### JF 4.3: Is able to build, manage and deploy code into the relevant environment
+- Demonstrated via deployment of project to Netlify and strong continuous integration/development pipeline integratied with GitHub Actions.
 
-### JF XX.XX
-- List the full text of the job function first
-- Describe a situation where you demonstrated  this job function.
-- Summarize the actions you took to accomplish the goal. 
-- Emphasize the results of this action for your team or your learning. 
-- Connect the competentcy to this project
+### JF 5.5: Understands and can apply structured techniques to problem solving, can debug code and can understand the structure of programmes to identify and resolve issues
+- Worked through bugs in launching project to production. Was able to overcome obstacles and get the product running in production environment.
