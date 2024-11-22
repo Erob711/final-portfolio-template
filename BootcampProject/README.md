@@ -1,4 +1,4 @@
-## Project #1: Inventory App
+## Inventory App
 link: https://github.com/multiverseCelcTeam/inventory-app 
 
 This is a group project I worked on with 3 other apprentices during the Multiverse Learning Bootcamp. It's designed to be a simple app for employees managing an inventory system.
@@ -9,6 +9,16 @@ Built in React and Node.js:
 	<code><img width="50" src="https://user-images.githubusercontent.com/25181517/183568594-85e280a7-0d7e-4d1a-9028-c8c2209e073c.png" alt="Node.js" title="Node.js"/></code>
 </div>
 
+## Making it Work
+
+### Situation
+	Employees at a warehouse need a way to manage the inventory in their company.
+### Task
+	Build a user interface that allows the emplyees to interact with a database of items, and gives them capability to make edits to the database.
+### Action
+	Work together with a team of developers to put the product vision into reality.
+### Result
+	A working full-stack product!
 ## Competencies
 ### JF 2.1: Can create and analyze artefacts, such as use cases and/or user stories
 We were tasked with making clickable cards representing inventory items at a store (things like jackets or vacuums) that mapped to real changes persisted in a database.

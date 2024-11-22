@@ -1,4 +1,4 @@
-## Inventory App: Refacting a Node.JS Backend into Springboot
+## Inventory App: Refactoring a Node.JS Backend into Java/Springboot
 Give a high-level overview of the project purpose
 - Questions to consider:
     - What are the users?
