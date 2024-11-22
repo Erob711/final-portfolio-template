@@ -10,3 +10,6 @@
 [submodule "BackendProject/inventory-app"]
 	path = BackendProject/inventory-app
 	url = https://github.com/multiverseCelcTeam/inventory-app
+[submodule "BootcampProject/inventory-app"]
+	path = BootcampProject/inventory-app
+	url = https://github.com/multiverseCelcTeam/inventory-app
