@@ -1,33 +1,31 @@
 ## Art Generator
-Give a high-level overview of the project purpose
-- Questions to consider:
-    - What are the users?
-    - What job does it form for them?
-    - What inspired you to make it?
-    - What features are the most important?
-- STAR Interview Questions:
-    - (Situation) Describe the application and why you created this program
-    - (Task) Describe the overall structure of your application and the design process prior to building the program
-    - (Action) Explain the code you wrote to achieve your desired result
-    - (Result) Showcase your final application with its functionality
-- Include relevant screenshots
+link:  https://github.com/achasek/frontend-project-multiverse 
 
-## Technologies
-- List all technologies and versions here
-- Include dependencies and versions
-- Note any deployment tools as well
+In this project, I worked together with a group of 2 other developers to implement a User Interface which generates random art for the user by linkage to Chicago Metropolitan Art Museum's Api.
+
+<div align="left">
+	<code><img width="50" src="https://user-images.githubusercontent.com/25181517/192108374-8da61ba1-99ec-41d7-80b8-fb2f7c0a4948.png" alt="JavaScript" title="JavaScript"/></code>
+	<code><img width="50" src="https://user-images.githubusercontent.com/25181517/183868728-b2e11072-00a5-47e2-8a4e-4ebbb2b8c554.png" alt="React" title="React"/></code>
+    <code><img width="50" src="https://user-images.githubusercontent.com/25181517/192158954-f88b5814-d510-4564-b285-dff7d6400dad.png" alt="React" title="React"/></code>
+    <code><img width="50" src="https://user-images.githubusercontent.com/25181517/183898674-75a4a1b1-f960-4ea9-abcb-637170a00a75.png" alt="React" title="React"/></code>
+
+	
+</div>
+
+## Making it Work
+
+### Situation
+	During the process of making the app, we encountered issues with the API being very unstable. This would result in outputs on the UI that were repetitive or non-existent.
+### Task
+    Fix the issue in order to have a working product.
+### Action
+	Work around the unstability and provide defaulted or cached mechanisms for providing user content if the API hits incorrectly.
+### Result
+	A beautiful working UI that generates random art for the user!
 
 ## Competencies
-### JF XX.XX
-- List the full text of the job function first
-- Describe a situation where you demonstrated  this job function.
-- Summarize the actions you took to accomplish the goal. 
-- Emphasize the results of this action for your team or your learning. 
-- Connect the competentcy to this project
+### JF 2.5: Can implement a responsive User Interface
+- Together with 2 other developers, delievered a robust user interface in React with 4 or 5 working compontents including filtering, routing, and buttons.
 
-### JF XX.XX
-- List the full text of the job function first
-- Describe a situation where you demonstrated  this job function.
-- Summarize the actions you took to accomplish the goal. 
-- Emphasize the results of this action for your team or your learning. 
-- Connect the competentcy to this project
+### JF 2.7: Effectively manages state for complex User Interfaces
+- I was able to identify a bug of art images not rendering correctly on the UI due to incorrect state management. Context was also used on this app to spread state accross multiple React Components in different layers of the app.
