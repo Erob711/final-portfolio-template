@@ -1,3 +1,12 @@
 [submodule "DeploymentProject/pokemon-ui"]
 	path = DeploymentProject/pokemon-ui
 	url = https://github.com/Erob711/pokemon-ui
+[submodule "FrontendProject/frontend-project-multiverse"]
+	path = FrontendProject/frontend-project-multiverse
+	url = https://github.com/achasek/frontend-project-multiverse
+[submodule "BackendProject/inventory-app-spring-backend"]
+	path = BackendProject/inventory-app-spring-backend
+	url = https://github.com/Erob711/inventory-app-spring-backend
+[submodule "BackendProject/inventory-app"]
+	path = BackendProject/inventory-app
+	url = https://github.com/multiverseCelcTeam/inventory-app
